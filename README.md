@@ -3,8 +3,8 @@
 
 ## Introduction
 
-This is my *CellularPainter_, based on the same idea than the
-*SonicPainter* but applied to a Cellular Automata. A demo can be seed on
+This is my *CellularPainter*, based on the same idea than *SonicPainter* but
+applied to a Cellular Automata. A demo can be seen on
 [Vimeo](http://vimeo.com/100168098)
 
 
